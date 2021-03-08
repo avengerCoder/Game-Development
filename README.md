@@ -16,7 +16,6 @@ Help the Katxupi(main character) protect the AC from the terrible monsters
 
 - Java (1.8)
 
-## Release
 ## Authors
 
 * **Fábio Alves** - [FabyoSK](https://github.com/FabyoSK)
