@@ -2,9 +2,9 @@
 
 My first game development experience with JAVA
 
-# <AC - Defender>
+## <AC - Defender>
 
-## About the project
+# About the project
 
 This game was made in two weeks using Simple Grafics Library (A Academia de codigo internal grafics library),
 
