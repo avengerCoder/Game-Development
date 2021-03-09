@@ -1,12 +1,12 @@
 # My-First-Game
 
-My first game development experience with JAVA
+My first game development and team work experience with JAVA
 
 ## <AC - Defender>
 
 # About the project
 
-This game was made in two weeks using Simple Grafics Library (A Academia de codigo internal grafics library),
+This game was made in two weeks using Simple Grafics Library (an <Academia de Código_> internal grafics library),
 
 ## Story
 
