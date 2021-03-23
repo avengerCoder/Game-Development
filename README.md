@@ -12,7 +12,7 @@ This game was made in two weeks using Simple Grafics Library (an <Academia de CÃ
 
 Help the Katxupi (main character) protect the AC from the terrible monsters
 
-## :rocket: Build with:
+## Build with:
 
 - Java (1.8)
 
