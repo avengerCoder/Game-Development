@@ -1,6 +1,6 @@
 # My-First-Game
 
-- My first game development and team work experience with JAVA  <AC - Defender>
+- My first game development and team work experience with Java  <AC - Defender>
 
 
 # About the project
