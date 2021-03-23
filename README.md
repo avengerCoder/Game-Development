@@ -1,16 +1,17 @@
 # My-First-Game
 
-My first game development and team work experience with JAVA
+- My first game development and team work experience with JAVA  <AC - Defender>
 
-## <AC - Defender>
 
 # About the project
 
-This game was made in two weeks using Simple Grafics Library (an <Academia de Código_> internal grafics library),
+- This game was made in two weeks using Simple Grafics Library (an <Academia de Código_> internal grafics library),
+
 
 ## Story
 
-Help the Katxupi (main character) protect the AC from the terrible monsters
+- Help the Katxupi (main character) protect the AC from the terrible monsters
+
 
 ## Build with:
 
